@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="start from tree" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="start from tree">
+      <change afterPath="$PROJECT_DIR$/lk114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk144-decompose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk543_refactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk543_rough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,10 +40,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\leetcode" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="leetcode" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,7 +73,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646753341413</updated>
-      <workItem from="1646753343576" duration="1359000" />
+      <workItem from="1646753343576" duration="1466000" />
+      <workItem from="1647058083703" duration="25000" />
+      <workItem from="1647077053235" duration="3292000" />
+      <workItem from="1647134346728" duration="655000" />
+      <workItem from="1647143280163" duration="127000" />
+      <workItem from="1647143429127" duration="603000" />
+      <workItem from="1648105500934" duration="8132000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -53,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646754007846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start from tree">
+      <created>1646754717839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646754717839</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +115,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start from tree" />
     <option name="LAST_COMMIT_MESSAGE" value="start from tree" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
