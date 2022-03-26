@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="start from tree">
-      <change afterPath="$PROJECT_DIR$/lk105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk297_layer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk297_postorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Network" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,6 +74,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Tachikoma\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="" />
@@ -91,6 +93,7 @@
       <workItem from="1648105500934" duration="8915000" />
       <workItem from="1648120261042" duration="65000" />
       <workItem from="1648188847253" duration="7972000" />
+      <workItem from="1648284703114" duration="8950000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
