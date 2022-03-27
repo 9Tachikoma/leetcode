@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="start from tree">
-      <change afterPath="$PROJECT_DIR$/lk297.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk297_layer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk297_postorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk652.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Network" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -93,7 +91,9 @@
       <workItem from="1648105500934" duration="8915000" />
       <workItem from="1648120261042" duration="65000" />
       <workItem from="1648188847253" duration="7972000" />
-      <workItem from="1648284703114" duration="8950000" />
+      <workItem from="1648284703114" duration="9472000" />
+      <workItem from="1648301891356" duration="643000" />
+      <workItem from="1648392848377" duration="2791000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648119536818</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start from tree">
+      <created>1648300986009</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648300986009</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
