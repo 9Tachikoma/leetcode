@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="start from tree">
-      <change afterPath="$PROJECT_DIR$/lk652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicArrayMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jian62.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,18 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="ece53e84-6fe2-49cd-a1ce-481591e99b04" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lk106.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk889.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk654.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk105.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk543_refactor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk226.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk652.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk297_postorder.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk297_layer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk297.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,7 +106,10 @@
       <workItem from="1648188847253" duration="7972000" />
       <workItem from="1648284703114" duration="9472000" />
       <workItem from="1648301891356" duration="643000" />
-      <workItem from="1648392848377" duration="2791000" />
+      <workItem from="1648392848377" duration="3410000" />
+      <workItem from="1648647170498" duration="736000" />
+      <workItem from="1648711476436" duration="1243000" />
+      <workItem from="1648734622421" duration="2183000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -123,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648300986009</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="start from tree">
+      <created>1648395689500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648395689500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
