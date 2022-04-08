@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="关于双指针和merge">
-      <change afterPath="$PROJECT_DIR$/lk912_Quick.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="QuickSort,小心边界控制">
+      <change afterPath="$PROJECT_DIR$/lk230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk538,1038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk98.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +115,8 @@
       <workItem from="1648711476436" duration="1243000" />
       <workItem from="1648734622421" duration="2250000" />
       <workItem from="1649299374471" duration="4135000" />
-      <workItem from="1649350466589" duration="2018000" />
+      <workItem from="1649350466589" duration="2123000" />
+      <workItem from="1649388883497" duration="6676000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -168,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649337229978</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="QuickSort,小心边界控制">
+      <created>1649352553723</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649352553723</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +202,8 @@
     <MESSAGE value="start from tree" />
     <MESSAGE value="恒生2022春招两道笔试题" />
     <MESSAGE value="关于双指针和merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="关于双指针和merge" />
+    <MESSAGE value="QuickSort,小心边界控制" />
+    <option name="LAST_COMMIT_MESSAGE" value="QuickSort,小心边界控制" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
