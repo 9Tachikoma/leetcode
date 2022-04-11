@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="QuickSort,小心边界控制">
-      <change afterPath="$PROJECT_DIR$/lk230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk450.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk538,1038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk700.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk701.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk98.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="BST的特性与基础操作">
+      <change afterPath="$PROJECT_DIR$/lk167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk83.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +118,9 @@
       <workItem from="1648734622421" duration="2250000" />
       <workItem from="1649299374471" duration="4135000" />
       <workItem from="1649350466589" duration="2123000" />
-      <workItem from="1649388883497" duration="6676000" />
+      <workItem from="1649388883497" duration="7330000" />
+      <workItem from="1649483802212" duration="1347000" />
+      <workItem from="1649654857123" duration="7898000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -181,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649352553723</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="BST的特性与基础操作">
+      <created>1649397922800</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649397922800</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +214,8 @@
     <MESSAGE value="恒生2022春招两道笔试题" />
     <MESSAGE value="关于双指针和merge" />
     <MESSAGE value="QuickSort,小心边界控制" />
-    <option name="LAST_COMMIT_MESSAGE" value="QuickSort,小心边界控制" />
+    <MESSAGE value="BST的特性与基础操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="BST的特性与基础操作" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
