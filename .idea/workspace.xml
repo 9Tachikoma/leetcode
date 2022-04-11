@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="BST的特性与基础操作">
-      <change afterPath="$PROJECT_DIR$/lk167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk83.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="双指针技巧slow,fast;left,right">
+      <change afterPath="$PROJECT_DIR$/lk46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +113,7 @@
       <workItem from="1649350466589" duration="2123000" />
       <workItem from="1649388883497" duration="7330000" />
       <workItem from="1649483802212" duration="1347000" />
-      <workItem from="1649654857123" duration="7898000" />
+      <workItem from="1649654857123" duration="11882000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -192,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649397922800</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="双指针技巧slow,fast;left,right">
+      <created>1649665489708</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649665489708</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +215,8 @@
     <MESSAGE value="关于双指针和merge" />
     <MESSAGE value="QuickSort,小心边界控制" />
     <MESSAGE value="BST的特性与基础操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="BST的特性与基础操作" />
+    <MESSAGE value="双指针技巧slow,fast;left,right" />
+    <option name="LAST_COMMIT_MESSAGE" value="双指针技巧slow,fast;left,right" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
