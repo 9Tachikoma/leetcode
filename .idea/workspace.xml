@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="双指针技巧slow,fast;left,right">
-      <change afterPath="$PROJECT_DIR$/lk46.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="回溯全排列，N皇后C++实现方便处理字符串">
+      <change afterPath="$PROJECT_DIR$/lk142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk876.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +117,8 @@
       <workItem from="1649350466589" duration="2123000" />
       <workItem from="1649388883497" duration="7330000" />
       <workItem from="1649483802212" duration="1347000" />
-      <workItem from="1649654857123" duration="11882000" />
+      <workItem from="1649654857123" duration="12582000" />
+      <workItem from="1649729310967" duration="10162000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -192,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649665489708</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="回溯全排列，N皇后C++实现方便处理字符串">
+      <created>1649696491243</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649696491243</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +228,8 @@
     <MESSAGE value="QuickSort,小心边界控制" />
     <MESSAGE value="BST的特性与基础操作" />
     <MESSAGE value="双指针技巧slow,fast;left,right" />
-    <option name="LAST_COMMIT_MESSAGE" value="双指针技巧slow,fast;left,right" />
+    <MESSAGE value="回溯全排列，N皇后C++实现方便处理字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="回溯全排列，N皇后C++实现方便处理字符串" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
