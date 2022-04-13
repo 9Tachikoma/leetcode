@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="链表">
-      <change afterPath="$PROJECT_DIR$/lk355-Twiiter.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="simple Twitter,unfinished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk355-Twiiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lk355-Twiiter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,8 @@
       <workItem from="1649388883497" duration="7330000" />
       <workItem from="1649483802212" duration="1347000" />
       <workItem from="1649654857123" duration="12582000" />
-      <workItem from="1649729310967" duration="13534000" />
+      <workItem from="1649729310967" duration="14154000" />
+      <workItem from="1649835537919" duration="8124000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -207,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649771703102</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="simple Twitter,unfinished">
+      <created>1649775190328</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1649775190328</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +241,8 @@
     <MESSAGE value="双指针技巧slow,fast;left,right" />
     <MESSAGE value="回溯全排列，N皇后C++实现方便处理字符串" />
     <MESSAGE value="链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表" />
+    <MESSAGE value="simple Twitter,unfinished" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple Twitter,unfinished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
