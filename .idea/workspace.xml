@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="bst and complete bt">
-      <change afterPath="$PROJECT_DIR$/lk146-LRU-LinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk146-LRU.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="LRU">
+      <change afterPath="$PROJECT_DIR$/lk2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +36,15 @@
     <setting file="file://$PROJECT_DIR$/lk889.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lk654.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lk105.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lk543_refactor.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lk226.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk146-LRU.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk146-LRU-LinkedHashMap.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk114.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk1373.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk543_refactor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk222.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk111.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lk1.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lk652.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lk297_postorder.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lk297_layer.java" root0="FORCE_HIGHLIGHTING" />
@@ -123,7 +129,8 @@
       <workItem from="1650190252890" duration="595000" />
       <workItem from="1650253279626" duration="1795000" />
       <workItem from="1650261272727" duration="792000" />
-      <workItem from="1650262767322" duration="7532000" />
+      <workItem from="1650262767322" duration="8812000" />
+      <workItem from="1650343662864" duration="2367000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -251,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650265086273</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="LRU">
+      <created>1650285205650</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1650285205650</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +296,8 @@
     <MESSAGE value="DP" />
     <MESSAGE value="review" />
     <MESSAGE value="bst and complete bt" />
-    <option name="LAST_COMMIT_MESSAGE" value="bst and complete bt" />
+    <MESSAGE value="LRU" />
+    <option name="LAST_COMMIT_MESSAGE" value="LRU" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
