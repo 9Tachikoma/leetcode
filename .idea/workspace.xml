@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="LRU">
-      <change afterPath="$PROJECT_DIR$/lk2.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="list_sum">
+      <change afterPath="$PROJECT_DIR$/lk34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk704.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk116.java" beforeDir="false" afterPath="$PROJECT_DIR$/lk116.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +132,8 @@
       <workItem from="1650253279626" duration="1795000" />
       <workItem from="1650261272727" duration="792000" />
       <workItem from="1650262767322" duration="8812000" />
-      <workItem from="1650343662864" duration="2367000" />
+      <workItem from="1650343662864" duration="3577000" />
+      <workItem from="1650438018084" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -265,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650285205650</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="list_sum">
+      <created>1650349580375</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1650349580375</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +307,8 @@
     <MESSAGE value="review" />
     <MESSAGE value="bst and complete bt" />
     <MESSAGE value="LRU" />
-    <option name="LAST_COMMIT_MESSAGE" value="LRU" />
+    <MESSAGE value="list_sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="list_sum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
