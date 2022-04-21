@@ -14,8 +14,14 @@
  * }
  */
 class Solution {
+    //代替for循环寻找inorder中的index
+    HashMap<Integer, Integer> valToIndex = new HashMap<>();
+
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return build (preorder, 0, preorder.length - 1,
+        for (int i = 0; i < inorder.length; i++) {
+            valToIndex.put(inorder[i], i);
+        }
+        return build(preorder, 0, preorder.length - 1,
                 inorder, 0, inorder.length - 1);
     }
 
@@ -26,14 +32,7 @@ class Solution {
         }
 
         int rootVal = preorder[preStart];
-        int index = 0;
-        for (int i = inStart; i <= inEnd; i++) {
-            if(inorder[i] == rootVal){
-                index = i;
-                break;
-            }
-        }
-
+        int index = valToIndex.get(rootVal);
         int leftSize = index - inStart;
 
         TreeNode root = new TreeNode(rootVal);
