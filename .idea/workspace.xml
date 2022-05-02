@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="寻找左右侧边界的二分查找">
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="优化根据先序遍历和中序遍历构造二叉树">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk191汉明权重.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lk105.java" beforeDir="false" afterPath="$PROJECT_DIR$/lk105.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,33 +68,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IdeaProjects\leetcode" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="leetcode" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -132,7 +127,10 @@
       <workItem from="1650262767322" duration="8812000" />
       <workItem from="1650343662864" duration="3577000" />
       <workItem from="1650438018084" duration="4253000" />
-      <workItem from="1650520979632" duration="310000" />
+      <workItem from="1650520979632" duration="936000" />
+      <workItem from="1650596958125" duration="388000" />
+      <workItem from="1651508698426" duration="4550000" />
+      <workItem from="1651517239144" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -281,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650460386444</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="优化根据先序遍历和中序遍历构造二叉树">
+      <created>1650521322646</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1650521322646</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +320,8 @@
     <MESSAGE value="LRU" />
     <MESSAGE value="list_sum" />
     <MESSAGE value="寻找左右侧边界的二分查找" />
-    <option name="LAST_COMMIT_MESSAGE" value="寻找左右侧边界的二分查找" />
+    <MESSAGE value="优化根据先序遍历和中序遍历构造二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化根据先序遍历和中序遍历构造二叉树" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
