@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="离谱位操作">
-      <change afterPath="$PROJECT_DIR$/lk370.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="lk370 区间加法（差分数组）">
+      <change afterPath="$PROJECT_DIR$/lk25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk92.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +126,9 @@
       <workItem from="1650596958125" duration="388000" />
       <workItem from="1651508698426" duration="4550000" />
       <workItem from="1651517239144" duration="711000" />
-      <workItem from="1651595427932" duration="2414000" />
+      <workItem from="1651595427932" duration="2446000" />
+      <workItem from="1651738893531" duration="602000" />
+      <workItem from="1651845122471" duration="6511000" />
     </task>
     <task id="LOCAL-00001" summary="start from tree">
       <created>1646754007846</created>
@@ -288,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651517910810</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="lk370 区间加法（差分数组）">
+      <created>1651597894264</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1651597894264</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +334,8 @@
     <MESSAGE value="寻找左右侧边界的二分查找" />
     <MESSAGE value="优化根据先序遍历和中序遍历构造二叉树" />
     <MESSAGE value="离谱位操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="离谱位操作" />
+    <MESSAGE value="lk370 区间加法（差分数组）" />
+    <option name="LAST_COMMIT_MESSAGE" value="lk370 区间加法（差分数组）" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
