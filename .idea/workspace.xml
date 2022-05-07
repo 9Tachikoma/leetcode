@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="优化根据先序遍历和中序遍历构造二叉树">
-      <change afterPath="$PROJECT_DIR$/lk1094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk1109.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lk167.java" beforeDir="false" afterPath="$PROJECT_DIR$/lk167.java" afterDir="false" />
+    <list default="true" id="8fd49092-c3cc-477b-8ef5-c472aab872bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lk225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk232.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -295,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651597894264</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="不是很明显的差分数组">
+      <created>1651890143909</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1651890143910</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +340,8 @@
     <MESSAGE value="优化根据先序遍历和中序遍历构造二叉树" />
     <MESSAGE value="离谱位操作" />
     <MESSAGE value="lk370 区间加法（差分数组）" />
-    <option name="LAST_COMMIT_MESSAGE" value="lk370 区间加法（差分数组）" />
+    <MESSAGE value="不是很明显的差分数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="不是很明显的差分数组" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
